@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6A5AB1AE-63E4-7C70-33B6-04AE5BB5F07C}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SCRIPTS/Cameras.cs">
+    <Files>
+      <File FileName="Assets/SCRIPTS/Cameras.cs" Line="9" Column="68" />
+      <File FileName="Assets/SCRIPTS/Buttons.cs" Line="1" Column="1" />
+      <File FileName="Assets/SCRIPTS/StatusOfCharacters.cs" Line="57" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7514f2f6-69f3-4301-b584-761e23530509" />
+</Properties>
